@@ -25,6 +25,7 @@ bespoke.from('article', [
   pdf()
 ]);
 }
+```
 
 #### Options
 
