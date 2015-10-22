@@ -1,0 +1,29 @@
+{
+  "name": "bespoke-pdf-electron-helper",
+  "title": "bespoke-pdf-electron-helper",
+  "version": "1.0.0",
+  "description": "PDF plugin for Bespoke.js",
+  "author": "David Clements",
+  "browser": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/davidmarkclements/bespoke-pdf-electron-helper.git"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "keywords": [
+    "bespoke-plugin",
+    "bespoke",
+    "PDF",
+    "slides",
+    "presentation",
+    "markdown"
+  ]
+}
