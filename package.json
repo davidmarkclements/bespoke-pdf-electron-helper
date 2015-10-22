@@ -1,7 +1,7 @@
 {
   "name": "bespoke-pdf-electron-helper",
   "title": "bespoke-pdf-electron-helper",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "PDF plugin for Bespoke.js",
   "author": "David Clements",
   "browser": "index.js",
@@ -25,5 +25,6 @@
     "slides",
     "presentation",
     "markdown"
-  ]
+  ],
+  "scripts": {}
 }
